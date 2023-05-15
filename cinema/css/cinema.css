@@ -1,0 +1,27 @@
+
+
+.today {
+
+  color:darkred;
+}
+.tomorrow {
+  color:darkblue;
+}
+h2  a {
+  text-decoration:none;
+  color:seagreen;
+}
+p {
+  font-size: 20px;
+}
+body {
+  font-family:arial
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+}
+title {
+  font-size: 10px;
+
+}
